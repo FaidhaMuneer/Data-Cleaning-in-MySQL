@@ -38,18 +38,6 @@ The objective is to transform the raw, messy data into a **clean, standardized, 
 ### 4️⃣ Remove Unnecessary Columns
 - Dropped the helper column `row_num` after deduplication.
 
----
-
-## 📂 Project Files
--  mysql-data-cleaning-project/
-├── data/
-│ └── layoffs.csv
-├── sql/
-│ └── data_cleaning.sql
-├── screenshots/
-│ └── cleaned_preview.png
-└── README.md
-
 
 ---
 
